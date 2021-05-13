@@ -7,6 +7,6 @@ def square_list(nums):
   for s in range(len(nums)):
     nums[s] = nums[s]*nums[s]
 
-nums = [7, -3, 12, 9]
-square_list(nums)
-print(nums)
+#nums = [7, -3, 12, 9]
+#square_list(nums)
+#print(nums)
